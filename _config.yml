@@ -26,10 +26,10 @@ author:
   name             : "Tuhin"
   pronouns         : # example: "she/her"  
   bio              : "PhD | Sustainable Cloud and Edge Computing, IoT#"Short biography for the left-hand sidebar"
-  location         : "Earth"
+  location         : "Melbourne, Australia"#"Earth"
   employer         : "Monash University"#"Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "tuhin.chakraborty@monash.edu"#"none@example.org" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
