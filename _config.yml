@@ -23,9 +23,9 @@ repository               : "tuhin-iit/tuhin-iit.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Tuhin C"
+  name             : "Tuhin"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "PhD | Sustainable Cloud and Edge Computing, IoT#"Short biography for the left-hand sidebar"
   location         : "Earth"
   employer         : "Monash University"#"Red Brick University"
   uri              : # URL
